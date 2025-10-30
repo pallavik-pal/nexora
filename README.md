@@ -12,9 +12,22 @@ cd nexora
 Install Dependencies
 
 Run npm install inside both frontend and backend for node_modules installation:
+```bash
+cd frontend  
 
-cd frontend
-npm install
-cd ..
-cd backend
-npm install
+npm install  
+
+cd ..  
+
+cd backend  
+
+npm install  
+```
+Create a file named .env inside the frontend folder and specify the following:  
+
+```bash
+mongouri = mongodb+srv://nexora:YhpCqLUOGOdO4UEu@cluster0.atq87my.mongodb.net/?appName=Cluster0
+PORT = 5000
+
+```
+
