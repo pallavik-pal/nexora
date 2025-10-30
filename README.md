@@ -30,7 +30,7 @@ mongouri = mongodb+srv://nexora:YhpCqLUOGOdO4UEu@cluster0.atq87my.mongodb.net/?a
 PORT = 5000
 
 ```
-# RUN PROJECT 
+### RUN PROJECT 
 
 inside frontend run below command 
 ```bash
@@ -46,6 +46,7 @@ now the link "localhost://------" will be shown in the terminal where the u ran 
 click it now the project opens in web browser which will look like
 
 <img width="1877" height="902" alt="image" src="https://github.com/user-attachments/assets/5f3bf3a1-f547-4190-aee8-8c6b2fd5f80b" />
+
 scroll down to look at products
 
 click add to cart which navigates to /cart 
